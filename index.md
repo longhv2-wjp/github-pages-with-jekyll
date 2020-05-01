@@ -1,3 +1,3 @@
 # Welcome to my blog
-
+__I am study to make github PAGE.__
 I'm glad you are here. I plan to talk about ...
